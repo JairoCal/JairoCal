@@ -1,7 +1,7 @@
 ### Welcome! 👋
 
 
-![Banner](https://github.com/JairoCal/JairoCal/blob/main/pic2.jpg?raw=true)
+![Banner](https://github.com/JairoCal/JairoCal/blob/main/pic3.jpg?raw=true)
     
 ![Jairo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JairoCal&&count_private=true&hide=stars&show_icons=true&theme=tokyonight) 
 
