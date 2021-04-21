@@ -1,7 +1,13 @@
+
+
+
+![Banner](https://github.com/JairoCal/JairoCal/blob/main/pic3.jpg?raw=true)
+
 ### Welcome! 👋
+My name is Jairo Calderon. I'm currently enrolled in AppAcademys full-stack software engineering program (6 month course). Where I am set to graduate in May 2021.
 
 
-![Banner](https://github.com/JairoCal/JairoCal/blob/main/pic2.jpg?raw=true)
+-----------------
     
 ![Jairo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JairoCal&&count_private=true&hide=stars&show_icons=true&theme=tokyonight) 
 
