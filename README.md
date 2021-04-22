@@ -4,7 +4,7 @@
 ![Banner](https://github.com/JairoCal/JairoCal/blob/main/pic3.jpg?raw=true)
 
 ### Welcome! 👋
-My name is Jairo Calderon. I'm currently enrolled in AppAcademy's full-stack software engineering program (6 month course). Where I am set to graduate in May 2021.
+My name is Jairo Calderon. I'm currently enrolled in AppAcademy's full-stack software engineering program (6 month course). I am set to graduate in May 2021.
 
 
 -----------------
