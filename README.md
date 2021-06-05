@@ -24,10 +24,7 @@ My name is Jairo Calderon. I'm a Full-Stack Software Engineer.
 -----------------
 
 ## Applications I use
-- ![POSTMAN](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-- ![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-- ![HEROKU](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-- ![POSTBIRD](https://github.com/JairoCal/JairoCal/blob/main/image.png)
+![POSTMAN](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white) ![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![HEROKU](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) ![POSTBIRD](https://github.com/JairoCal/JairoCal/blob/main/image.png)
 
 -------------------------------------------------------------------
 
