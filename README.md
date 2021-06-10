@@ -1,8 +1,3 @@
-
-
-
-![Banner](https://github.com/JairoCal/JairoCal/blob/main/pic3.jpg?raw=true)
-
 ### Welcome! 👋
 My name is Jairo Calderon. I'm a Full-Stack Software Engineer.
 
