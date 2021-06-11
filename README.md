@@ -1,11 +1,12 @@
 ### Welcome! 👋
 My name is Jairo Calderon. I'm a Full-Stack
-Software Engineer!
+Software Engineer.
 
 Few things about me:
 * 🎮  Gamer
 * 🏀  Sports fan
-* 📚  Passionate about always learning more and developing new skills
+* 📚  Passionate about learning more and developing new skills
+* 👯  Always open to collaborate
 * 🔈  Bilingual (English & Spanish)
 -----------------
     
