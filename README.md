@@ -30,6 +30,7 @@ Few things about me:
 -------------------------------------------------------------------
 
 ## Connect 
+Any questions feel free to connect with me on LinkdIn or check out my [portfolio](https://jairocal.github.io/Portfolio/#) for more information!
 <br/> 
 <div align="center">
 <a href="https://github.com/JairoCal" target="_blank">
