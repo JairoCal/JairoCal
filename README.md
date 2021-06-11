@@ -1,7 +1,12 @@
 ### Welcome! 👋
-My name is Jairo Calderon. I'm a Full-Stack Software Engineer.
+My name is Jairo Calderon. I'm a Full-Stack
+Software Engineer.
 
-
+Few things about me:
+* 🎮  Gamer
+* 🏀  Sports fan
+* 📚  Passionate about always learning more and developing new skills
+* 🔈  Bilingual (English & Spanish)
 -----------------
     
 ![Jairo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JairoCal&&count_private=true&hide=stars&show_icons=true&theme=tokyonight) 
