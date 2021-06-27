@@ -1,5 +1,5 @@
 ### Welcome! 👋
-My name is Jairo Calderon. I'm a Full-Stack
+My name is Jairo Calderon and I am a Full-Stack
 Software Engineer.
 
 Few things about me:
